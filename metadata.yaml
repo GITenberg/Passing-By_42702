@@ -1,0 +1,32 @@
+_repo: Passing-By_42702
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baring, Maurice
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '937'
+    url: http://www.gutenberg.org/2009/agents/937
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Baring
+description: ''
+gutenberg_issued: '2013-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Catholics -- England -- Fiction'
+- !lcsh 'Diary fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Married people -- Fiction'
+title: Passing By
+url: http://www.gutenberg.org/ebooks/42702
